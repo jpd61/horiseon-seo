@@ -8,3 +8,5 @@ All of my original commits were removed when I attempted to update repository na
 <a href="https://jpd61.github.io/horiseon-seo/">Link to uploaded website</a>
 
 <img src="./assets/images/screenshot.PNG" />
+
+<img src="./assets/images/screenshot-2.PNG" />
